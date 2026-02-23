@@ -7,28 +7,33 @@
   <script defer src="scripts/music.js"></script>
   <title>Reproductor Lil Peep</title>
 </head>
-<body class="bg-black flex items-center justify-center min-h-screen">
+<body class="bg-black flex items-center justify-center min-h-screen relative overflow-hidden">
 
-  <main class="flex flex-col items-center gap-6 p-4">
+  <canvas id="visualizer" class="absolute bottom-0 left-0 w-full h-1/2 pointer-events-none opacity-40 z-0"></canvas>
+
+  <main class="flex flex-col items-center gap-6 p-4 z-10 w-full max-w-2xl text-center">
+    
     <div id="player-container" class="flex flex-col items-center gap-4 transition-all duration-500 ease-in-out">
-      <div class="relative group w-64 h-64">
+      <div class="relative group w-64 h-64 rounded-xl overflow-hidden shadow-2xl">
         <img src="img/nuts.png" alt="Portada del álbum" 
-             class="w-full h-full object-cover cursor-pointer transition duration-300 group-hover:brightness-75">
+             class="w-full h-full object-cover cursor-pointer transition duration-300 group-hover:brightness-50 group-hover:scale-105">
 
-        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-          <svg id="cover-svg" width="80px" height="80px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.715 6.36694L16.4 10.6639C16.7719 10.9289 16.9927 11.3573 16.9927 11.8139C16.9927 12.2706 16.7719 12.699 16.4 12.9639L10.71 17.6639C10.2297 18.0453 9.5794 18.1339 9.01458 17.8948C8.44975 17.6558 8.06062 17.1273 8.00003 16.5169V7.51694C8.05845 6.90422 8.44802 6.37281 9.01478 6.13275C9.58154 5.89269 10.2343 5.9826 10.715 6.36694Z" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300 pointer-events-none">
+          <svg id="cover-svg" class="pointer-events-auto cursor-pointer" width="80px" height="80px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.715 6.36694L16.4 10.6639C16.7719 10.9289 16.9927 11.3573 16.9927 11.8139C16.9927 12.2706 16.7719 12.699 16.4 12.9639L10.71 17.6639C10.2297 18.0453 9.5794 18.1339 9.01458 17.8948C8.44975 17.6558 8.06062 17.1273 8.00003 16.5169V7.51694C8.05845 6.90422 8.44802 6.37281 9.01478 6.13275C9.58154 5.89269 10.2343 5.9826 10.715 6.36694Z" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </div>
       </div>
 
-      <h1 class="text-white text-xl font-semibold mt-2">Lil Peep - Live Forever</h1>
+      <h1 class="text-white text-2xl font-bold mt-2 tracking-wide">Lil Peep - Nuts</h1>
     </div>
 
-    <audio id="music" src="music/Lil Peep_LIVE FOREVER_04_Nuts.flac"></audio>
-    <div id="lyrics" class="text-xl text-white"></div>
-  </main>
+    <audio id="music" src="music/Lil Peep_LIVE FOREVER_04_Nuts.flac" crossorigin="anonymous"></audio>
+    
+    <div id="lyrics" class="text-3xl md:text-5xl font-bold text-white opacity-0 transition-opacity duration-300 ease-in-out absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full px-6 text-center z-20">
+      </div>
 
+  </main>
 
 </body>
 </html>

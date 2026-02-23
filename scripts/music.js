@@ -2,99 +2,105 @@ const coverSvg = document.getElementById('cover-svg');
 const music = document.getElementById('music');
 const container = document.getElementById('player-container');
 const lyricsDiv = document.getElementById('lyrics');
+const canvas = document.getElementById('visualizer');
+const ctx = canvas.getContext('2d');
 
-// // Estilos iniciales del div de letras
-// lyricsDiv.classList.add('text-white', 'text-xl', 'text-center', 'mt-4', 'h-16', 'flex', 'items-center', 'justify-center', 'px-4');
+let lyricsData = [];
+let activeLyric = "";
 
-// Animación de portada
-coverSvg.addEventListener('click', () => {
-    music.play();
-    container.classList.add('opacity-0', 'scale-90');
-    setTimeout(() => {
-        container.classList.add('hidden');
-    }, 500);
-});
+let audioCtx;
+let analyser;
+let dataArray;
+let bufferLength;
 
-// // Cargar transcripción
-// fetch('music/Lil_Peep_LIVE_FOREVER_04_Nuts.wav.json')
-//     .then(response => response.json())
-//     .then(data => {
-//         const transcription = data.transcription;
-
-//         // Convertimos timestamps a segundos
-//         const lyrics = transcription.map(item => {
-//             const fromParts = item.timestamps.from.split(/[:,]/); // ["hh","mm","ss","ms"]
-//             const toParts = item.timestamps.to.split(/[:,]/);
-
-//             const fromSec = parseInt(fromParts[0]) * 3600 +
-//                             parseInt(fromParts[1]) * 60 +
-//                             parseInt(fromParts[2]) +
-//                             parseInt(fromParts[3]) / 1000;
-
-//             const toSec = parseInt(toParts[0]) * 3600 +
-//                           parseInt(toParts[1]) * 60 +
-//                           parseInt(toParts[2]) +
-//                           parseInt(toParts[3]) / 1000;
-
-//             return {
-//                 text: item.text.trim(),
-//                 from: fromSec,
-//                 to: toSec
-//             };
-//         });
-
-//         // Función para actualizar la letra según tiempo
-//         function updateLyrics() {
-//             const currentTime = music.currentTime;
-//             const currentLine = lyrics.find(line => currentTime >= line.from && currentTime <= line.to);
-
-//             // Mostrar letra actual o vacío
-//             lyricsDiv.textContent = currentLine && currentLine.text ? currentLine.text : '';
-
-//             requestAnimationFrame(updateLyrics);
-//         }
-
-//         // Inicia sincronización cuando empieza la canción
-//         music.addEventListener('play', () => {
-//             requestAnimationFrame(updateLyrics);
-//         });
-//     })
-//     .catch(err => console.error('Error cargando la transcripción:', err));
+function resizeCanvas() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight / 2;
+}
+window.addEventListener('resize', resizeCanvas);
+resizeCanvas();
 
 fetch('/music/Lil Peep_LIVE FOREVER_04_Nuts_lines.json')
-     .then(response => response.json())
+    .then(response => response.json())
     .then(data => {
-        const lineLyrics = convertTimestampsToSeconds(data.transcription);
-        console.log(lineLyrics);
-
-        function updateLyrics() {
-            const currentTime = music.currentTime;
-            const currentLine = lineLyrics.find(line => currentTime >= line.from && currentTime <= line.to);
-
-            lyricsDiv.textContent = currentLine ? currentLine.text : '';
-
-            requestAnimationFrame(updateLyrics);
-        }
-        music.addEventListener('play', () => {
-            requestAnimationFrame(updateLyrics);
-        });
+        lyricsData = data.transcription.map(item => ({
+            text: item.text.trim(),
+            from: item.offsets.from / 1000,
+            to: item.offsets.to / 1000
+        }));
     })
     .catch(err => console.error("Error cargando JSON:", err));
 
+coverSvg.addEventListener('click', () => {
+    if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        analyser = audioCtx.createAnalyser();
+        
+        const source = audioCtx.createMediaElementSource(music);
+        source.connect(analyser);
+        analyser.connect(audioCtx.destination); // Enviar el sonido a los altavoces
+        
+        analyser.fftSize = 256; 
+        bufferLength = analyser.frequencyBinCount;
+        dataArray = new Uint8Array(bufferLength);
+    }
+    
+    if (audioCtx.state === 'suspended') {
+        audioCtx.resume();
+    }
 
+    music.play();
+    
+    container.classList.add('opacity-0', 'scale-90', 'pointer-events-none');
+    setTimeout(() => {
+        container.classList.add('hidden');
+        lyricsDiv.classList.remove('opacity-0');
+        lyricsDiv.classList.add('opacity-100');
+    }, 500);
 
-function convertTimestampsToSeconds(transcription) {
-    return transcription.map(item => {
-        const timeToSec = (timeStr) => {
-            const [hh, mm, ss, ms] = timeStr.split(/[:,]/).map(Number);
-            return hh * 3600 + mm * 60 + ss + ms / 1000;
-        };
+    requestAnimationFrame(updateLoop);
+});
 
-        return {
-            text: item.text.trim(),
-            from: timeToSec(item.timestamps.from),
-            to: timeToSec(item.timestamps.to)
-        };
-    });
+function updateLoop() {
+    const currentTime = music.currentTime;
+    const currentLine = lyricsData.find(line => currentTime >= line.from && currentTime <= line.to);
+    const newText = currentLine ? currentLine.text : '';
+
+    if (activeLyric !== newText) {
+        activeLyric = newText;
+        lyricsDiv.style.opacity = 0;
+        setTimeout(() => {
+            lyricsDiv.textContent = activeLyric;
+            lyricsDiv.style.opacity = activeLyric ? 1 : 0;
+        }, 150);
+    }
+
+    if (analyser) {
+        analyser.getByteFrequencyData(dataArray);
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        const barWidth = (canvas.width / bufferLength) * 2.5;
+        let barHeight;
+        let x = 0;
+
+        for (let i = 0; i < bufferLength; i++) {
+            barHeight = dataArray[i] * 1.5; 
+
+            ctx.fillStyle = `rgba(255, 255, 255, ${barHeight / 400})`;
+            ctx.fillRect(x, canvas.height - barHeight / 2, barWidth, barHeight / 2);
+
+            x += barWidth + 1; 
+        }
+
+        const bass = dataArray[2]; 
+        if (activeLyric) {
+            const glowAmount = bass / 3; 
+            lyricsDiv.style.textShadow = `0px 0px ${glowAmount}px rgba(252, 191, 73, ${bass / 255})`;
+        }
+    }
+
+    if (!music.paused && !music.ended) {
+        requestAnimationFrame(updateLoop);
+    }
 }
-
