@@ -1,0 +1,452 @@
+{
+  "song_title": "Movin Forward",
+  "artist": "Lil Bo Weep",
+  "track_duration": "02:16",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:00.00",
+      "lyrics": "[Acoustic Guitar Intro]",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:10.50",
+      "lyrics": "Everything I am",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:12.30",
+      "lyrics": "Is everything you wanted",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:14.50",
+      "lyrics": "Now it's time to take",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:17.50",
+      "lyrics": "My steps forward",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:19.80",
+      "lyrics": "Should've listened to",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:22.00",
+      "lyrics": "All the ones who want me",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 30,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 30
+    },
+    {
+      "timestamp": "00:24.00",
+      "lyrics": "I won't look behind",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:26.50",
+      "lyrics": "Just keep moving forward",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "00:29.00",
+      "lyrics": "Did you like the way",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:31.50",
+      "lyrics": "You watch my heart break?",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 26,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 25
+    },
+    {
+      "timestamp": "00:33.80",
+      "lyrics": "I won't look behind",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:36.00",
+      "lyrics": "I just keep on going",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "00:38.50",
+      "lyrics": "Everything I am",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:41.00",
+      "lyrics": "Is everything you wanted",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:43.30",
+      "lyrics": "Now it's time to take",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:46.00",
+      "lyrics": "My steps forward",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:48.50",
+      "lyrics": "Should've listened to",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:50.80",
+      "lyrics": "All the ones who warned me",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 30,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 30
+    },
+    {
+      "timestamp": "00:53.00",
+      "lyrics": "I won't look behind",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:55.30",
+      "lyrics": "Just keep moving forward",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "00:58.00",
+      "lyrics": "Look up, look down, look all around",
+      "bass_total_percent": 28,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 35,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 35
+    },
+    {
+      "timestamp": "01:03.00",
+      "lyrics": "Do you see yourself here?",
+      "bass_total_percent": 28,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 35,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 35
+    },
+    {
+      "timestamp": "01:05.30",
+      "lyrics": "Do you see yourself there?",
+      "bass_total_percent": 28,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 35,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 35
+    },
+    {
+      "timestamp": "01:07.50",
+      "lyrics": "I just keep on going",
+      "bass_total_percent": 28,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 35,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 35
+    },
+    {
+      "timestamp": "01:10.00",
+      "lyrics": "I keep moving forward",
+      "bass_total_percent": 28,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 35,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 35
+    },
+    {
+      "timestamp": "01:12.30",
+      "lyrics": "I won't dare look back",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:14.50",
+      "lyrics": "There's no more falling",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "01:17.00",
+      "lyrics": "Everything I am",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:19.30",
+      "lyrics": "Is everything you wanted",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:21.50",
+      "lyrics": "Now it's time to take",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:24.30",
+      "lyrics": "My steps forward",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:26.80",
+      "lyrics": "Should've listened to",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:29.00",
+      "lyrics": "All the ones who warned me",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 30,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 30
+    },
+    {
+      "timestamp": "01:31.30",
+      "lyrics": "I won't look behind",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:33.50",
+      "lyrics": "Just keep moving forward",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "01:36.00",
+      "lyrics": "Did you like the way",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:38.50",
+      "lyrics": "You watched my heart break?",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 26,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 25
+    },
+    {
+      "timestamp": "01:40.80",
+      "lyrics": "I won't look behind",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:43.00",
+      "lyrics": "I just keep on going",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "01:45.50",
+      "lyrics": "Everything I am",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:47.80",
+      "lyrics": "Is everything you wanted",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:50.00",
+      "lyrics": "Now it's time to take",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:52.80",
+      "lyrics": "My steps forward",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:55.00",
+      "lyrics": "Should've listened to",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:57.30",
+      "lyrics": "All the ones who warned me",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 30,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 30
+    },
+    {
+      "timestamp": "01:59.50",
+      "lyrics": "I won't look behind",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "02:01.80",
+      "lyrics": "Just keep moving forward",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 8
+    },
+    {
+      "timestamp": "02:04.00",
+      "lyrics": "[Instrumental Outro]",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 10
+    }
+  ]
+}

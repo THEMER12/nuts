@@ -5,34 +5,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <script defer src="scripts/music.js"></script>
-  <title>Reproductor Lil Peep</title>
+  <title>10</title>
 </head>
-<body class="bg-black flex items-center justify-center min-h-screen relative overflow-hidden">
+<body class="bg-black m-0 p-0 min-h-screen flex flex-col justify-between">
 
-  <canvas id="visualizer" class="absolute bottom-0 left-0 w-full h-1/2 pointer-events-none opacity-40 z-0"></canvas>
+  <header>
+    <h1 class="uppercase text-4xl mt-20 text-center text-white py-4">play</h1>
+  </header>
 
-  <main class="flex flex-col items-center gap-6 p-4 z-10 w-full max-w-2xl text-center">
-    
-    <div id="player-container" class="flex flex-col items-center gap-4 transition-all duration-500 ease-in-out">
-      <div class="relative group w-64 h-64 rounded-xl overflow-hidden shadow-2xl">
-        <img src="img/nuts.png" alt="Portada del álbum" 
-             class="w-full h-full object-cover cursor-pointer transition duration-300 group-hover:brightness-50 group-hover:scale-105">
-
-        <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300 pointer-events-none">
-          <svg id="cover-svg" class="pointer-events-auto cursor-pointer" width="80px" height="80px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.715 6.36694L16.4 10.6639C16.7719 10.9289 16.9927 11.3573 16.9927 11.8139C16.9927 12.2706 16.7719 12.699 16.4 12.9639L10.71 17.6639C10.2297 18.0453 9.5794 18.1339 9.01458 17.8948C8.44975 17.6558 8.06062 17.1273 8.00003 16.5169V7.51694C8.05845 6.90422 8.44802 6.37281 9.01478 6.13275C9.58154 5.89269 10.2343 5.9826 10.715 6.36694Z" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-          </svg>
-        </div>
+  <main class="w-full mt-auto">
+    <div class="w-full grid grid-cols-5">
+      <div class="song-card" data-song="/music/congratulations/Congratulations (feat. Quavo).flac" data-lyrics="/music/congratulations/lyrics.json">
+        <img src="music/congratulations/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
       </div>
-
-      <h1 class="text-white text-2xl font-bold mt-2 tracking-wide">Lil Peep - Nuts</h1>
+      <div class="song-card" data-song="/music/hit_it/Hit It.flac" data-lyrics="/music/hit_it/lyrics.json">
+        <img src="music/hit_it/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/love_me_not/Love Me Not.flac" data-lyrics="/music/love_me_not/lyrics.json">
+        <img src="music/love_me_not/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/movin_forward/MOVIN FORWARD.flac" data-lyrics="/music/movin_forward/lyrics.json">
+        <img src="/music/movin_forward/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/nuts/Lil Peep LIVE FOREVER_04 Nuts.flac" data-lyrics="/music/nuts/lyrics.json">
+        <img src="music/nuts/cover.png" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/suicideboys/$uicideboy$ - ...And to Those I Love, Thanks for Sticking Around.flac" data-lyrics="/music/suicideboys/lyrics.json">
+        <img src="music/suicideboys/cover.jpg" alt="Song Image" class="w-full h-full object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/alive/Empire Of The Sun - Alive.flac" data-lyrics="/music/alive/lyrics.json">
+        <img src="music/alive/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/sunflower/Sunflower (Spider‐Man - Into the Spider‐Verse).flac" data-lyrics="/music/sunflower/lyrics.json">
+        <img src="music/sunflower/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/top/twenty one pilots - Stressed Out - 01 - Stressed Out.flac" data-lyrics="/music/top/lyrics.json">
+        <img src="music/top/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
+      <div class="song-card" data-song="/music/wasted_love/Wasted_Love.mp3" data-lyrics="/music/wasted_love/lyrics.json">
+        <img src="music/wasted_love/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      </div>
     </div>
-
-    <audio id="music" src="music/Lil Peep_LIVE FOREVER_04_Nuts.flac" crossorigin="anonymous"></audio>
-    
-    <div id="lyrics" class="text-3xl md:text-5xl font-bold text-white opacity-0 transition-opacity duration-300 ease-in-out absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full px-6 text-center z-20">
-      </div>
-
   </main>
 
 </body>
