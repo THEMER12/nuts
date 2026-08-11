@@ -1,0 +1,326 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "02:48",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:17.08",
+      "lyrics": "Take me home Take me home, it's the one place I can rest in peace",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:25.34",
+      "lyrics": "Turned off my phone So many messages I wish I could just delete",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:33.82",
+      "lyrics": "Questioning my existence (existence)",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:35.82",
+      "lyrics": "Questioning my decisions (decisions)",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:37.92",
+      "lyrics": "Burning down all the bridges (bridges)",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:40.06",
+      "lyrics": "Dig a moat, now I'm finished",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:42.06",
+      "lyrics": "Sorry, don't want you to visit, no",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:46.84",
+      "lyrics": "No",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:50.52",
+      "lyrics": "One last pic and I'll be gone Make it count, put the flash on",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:54.78",
+      "lyrics": "Never really felt like I belonged So I'll be on my way",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:57.76",
+      "lyrics": "and I won't be long",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:59.84",
+      "lyrics": "I'll be dead by dawn I'll be dead by dawn I'll be dead by dawn I'll be dead by dawn",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:14.04",
+      "lyrics": "...",
+      "bass_total_percent": 35,
+      "sub_bass_percent": 24,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 35
+    },
+    {
+      "timestamp": "01:23.72",
+      "lyrics": "Scrolling through my texts Shit I left unread",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:28.52",
+      "lyrics": "Never tryna deal with that There's bliss up in my ignorance Ten dope dealers",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:33.64",
+      "lyrics": "Ex want me to see her",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:36.58",
+      "lyrics": "Can't trust her, don't believe her",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:38.60",
+      "lyrics": "Reply, turnin' to a needle, yeah",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 37,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "01:41.22",
+      "lyrics": "Don't wanna do it again",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:42.34",
+      "lyrics": "Got shit I'm not tryna relive",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:45.06",
+      "lyrics": "Head fucked up and I'm sick These old habits will kill me quick",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "01:49.76",
+      "lyrics": "Quicker than I can blink Quicker than I could think",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:53.70",
+      "lyrics": "Lift me up, don't want to sink",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:55.78",
+      "lyrics": "Pour me up, I need a drink",
+      "bass_total_percent": 24,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 37,
+      "color_intensity_percent": 24
+    },
+    {
+      "timestamp": "01:57.42",
+      "lyrics": "What the fuck do I do",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 73,
+      "color_intensity_percent": 25
+    },
+    {
+      "timestamp": "01:58.52",
+      "lyrics": "When sabotage is all I know? Oh",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:02.04",
+      "lyrics": "I done dug myself, My own grave in this hole, oh, more",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "02:07.90",
+      "lyrics": "Kill me slow, slow Curtains closed low",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "02:11.30",
+      "lyrics": "Fuck, I don't see what's the point of going on, no",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "02:15.52",
+      "lyrics": "No, no, no, no, no, no, no, no.",
+      "bass_total_percent": 26,
+      "sub_bass_percent": 16,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 26
+    },
+    {
+      "timestamp": "02:18.66",
+      "lyrics": "Fuck out, no, no, no, no, no.",
+      "bass_total_percent": 34,
+      "sub_bass_percent": 23,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 34
+    },
+    {
+      "timestamp": "02:23.62",
+      "lyrics": "No, no, no, no, no.",
+      "bass_total_percent": 39,
+      "sub_bass_percent": 25,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 39
+    },
+    {
+      "timestamp": "02:26.78",
+      "lyrics": "no, no, no.",
+      "bass_total_percent": 33,
+      "sub_bass_percent": 23,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 33
+    },
+    {
+      "timestamp": "02:28.30",
+      "lyrics": "..",
+      "bass_total_percent": 0,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 0,
+      "frequency_peak_hz": 0,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:28.30",
+      "lyrics": "...",
+      "bass_total_percent": 46,
+      "sub_bass_percent": 30,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 35,
+      "color_intensity_percent": 46
+    }
+  ]
+}

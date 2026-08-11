@@ -1,0 +1,254 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "01:11",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:00.00",
+      "lyrics": "...",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 0,
+      "color_intensity_percent": 5
+    },
+    {
+      "timestamp": "00:08.18",
+      "lyrics": "I can see it in your eyes that you wanna get out",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:12.04",
+      "lyrics": "I can see it in your eyes that you need it right now",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:15.90",
+      "lyrics": "That you need it right now",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:17.94",
+      "lyrics": "That you wanna get out",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:19.86",
+      "lyrics": "That you need it right now",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:21.86",
+      "lyrics": "That you wanna get out",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:23.68",
+      "lyrics": "Yeah, I just wanna hear the sound",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:25.78",
+      "lyrics": "Drive our Camaros out of town",
+      "bass_total_percent": 24,
+      "sub_bass_percent": 11,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 24
+    },
+    {
+      "timestamp": "00:27.44",
+      "lyrics": "Baby, we could leave right now",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:30.00",
+      "lyrics": "Whoa",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:31.28",
+      "lyrics": "Yeah, I just wanna feel alive",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:33.88",
+      "lyrics": "Baby, take your time",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:35.62",
+      "lyrics": "Smoking on this loud",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "00:38.28",
+      "lyrics": "Whoa",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:39.36",
+      "lyrics": "Girl, you know you make my cold heart",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:41.60",
+      "lyrics": "warm with a touch",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:43.12",
+      "lyrics": "One kiss, then we fucking'",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 37,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:45.04",
+      "lyrics": "I just can't get enough",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 11,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 25
+    },
+    {
+      "timestamp": "00:47.00",
+      "lyrics": "Put it on me, that's the best part",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:49.32",
+      "lyrics": "Baby, the trust, trust me",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:51.80",
+      "lyrics": "I got nothing for you other than love",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:54.72",
+      "lyrics": "I remember eating pussy on the back of the bus",
+      "bass_total_percent": 26,
+      "sub_bass_percent": 12,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 26
+    },
+    {
+      "timestamp": "00:58.48",
+      "lyrics": "I remember getting nookie till the Sun came up",
+      "bass_total_percent": 24,
+      "sub_bass_percent": 11,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 24
+    },
+    {
+      "timestamp": "01:02.44",
+      "lyrics": "All the places that you took me, no one came with us",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "01:05.34",
+      "lyrics": "Same hoes overlook me, now they on my",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:10.18",
+      "lyrics": "Nuts",
+      "bass_total_percent": 35,
+      "sub_bass_percent": 20,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 35,
+      "color_intensity_percent": 35
+    }
+  ]
+}
