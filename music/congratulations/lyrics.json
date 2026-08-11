@@ -1,0 +1,551 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "03:40",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:15.10",
+      "lyrics": "My mama called, seen you on TV, son",
+      "bass_total_percent": 6,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 932,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:19.10",
+      "lyrics": "Said shit done changed",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 466,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:22.00",
+      "lyrics": "ever since we was on I dreamed it all",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 414,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:25.80",
+      "lyrics": "ever since I was young They said I wouldn't be nothing",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 622,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:29.06",
+      "lyrics": "Now they always say congratulations",
+      "bass_total_percent": 4,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 4,
+      "frequency_peak_hz": 555,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:32.98",
+      "lyrics": "Worked so hard, forgot how to vacation",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:36.88",
+      "lyrics": "They ain't never had the dedication",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:40.36",
+      "lyrics": "People hatin', say we changed, and look, we made it",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:43.88",
+      "lyrics": "Yeah, we made it",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:46.86",
+      "lyrics": "They was never friendly, yeah",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 207,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:48.28",
+      "lyrics": "Now I'm jumping out the Bentley, yeah",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 183,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:50.12",
+      "lyrics": "And I know I sound dramatic, yeah",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 181,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:52.16",
+      "lyrics": "But I knew I had to have it, yeah",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 182,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:54.14",
+      "lyrics": "For the money, I'm a savage, yeah",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:56.08",
+      "lyrics": "I be itching like an addict, yeah",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:58.00",
+      "lyrics": "I'm surrounded twenty bad bitch, yeah",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:59.98",
+      "lyrics": "But they didn't know me last year, yeah",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:01.92",
+      "lyrics": "Everyone wanna act like they important",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 34,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:05.90",
+      "lyrics": "But all that mean nothing when I saw my dog",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 698,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:10.12",
+      "lyrics": "Everyone counting on me drop the ball",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 61,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:14.02",
+      "lyrics": "Everything custom like I'm at the bottom, yeah, yeah",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 45,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "01:17.92",
+      "lyrics": "If you fuck with winning, put your lighters to the sky",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:21.70",
+      "lyrics": "How could I make cents when I got millions on my mind?",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:25.38",
+      "lyrics": "Coming with that bullshit, I just put it to the side",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:29.26",
+      "lyrics": "Balling since a baby, they could see it in my eyes",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:33.68",
+      "lyrics": "My mama called: Seen you on TV, son",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 933,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:37.12",
+      "lyrics": "Said shit done changed",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 207,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:39.26",
+      "lyrics": "ever since we was on I dreamed it all",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 414,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:43.30",
+      "lyrics": "ever since I was young They said I wouldn't be nothing",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 1164,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:47.14",
+      "lyrics": "Now they always say congratulations",
+      "bass_total_percent": 4,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 4,
+      "frequency_peak_hz": 555,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:50.92",
+      "lyrics": "Worked so hard, forgot how to vacation",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:54.72",
+      "lyrics": "They ain't never had the dedication",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:58.26",
+      "lyrics": "People hatin', say we changed, and look, we made it",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:01.70",
+      "lyrics": "Yeah, we made it",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:03.92",
+      "lyrics": "I was patient, yeah",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 4,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:06.68",
+      "lyrics": "Oh, I was patient",
+      "bass_total_percent": 4,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 4,
+      "frequency_peak_hz": 620,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:10.46",
+      "lyrics": "Now I can scream that we made it",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:13.66",
+      "lyrics": "Now everyone, everywhere I go, they say 'gratulations",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:18.06",
+      "lyrics": "Young nigga, young nigga, graduation (yeah)",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "02:19.90",
+      "lyrics": "I pick up the rock and I ball, baby",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 34,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:22.00",
+      "lyrics": "I'm looking for someone to call, baby",
+      "bass_total_percent": 7,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 61,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:23.94",
+      "lyrics": "But right now I got a situation",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:25.90",
+      "lyrics": "Never old been, Ben Franklins, big rings",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 45,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:28.84",
+      "lyrics": "Champagne, my life is like a ball game",
+      "bass_total_percent": 7,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 61,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:31.74",
+      "lyrics": "But instead I'm in the trap, though",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:33.68",
+      "lyrics": "Pot so big, call it Super Bowl",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:36.28",
+      "lyrics": "Super Bowl, call the hoes, get in the Rolls",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:40.62",
+      "lyrics": "Top floor lifestyle (top), Huncho and Post (yeah, ay)",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:44.96",
+      "lyrics": "Malone, I got a play on my phone, ay",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:48.00",
+      "lyrics": "You know what I'm on, ay Huncho Houdini is gone, ay",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:50.96",
+      "lyrics": "My mama called: Seen you on TV",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 35,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "02:55.20",
+      "lyrics": "Son Said shit done changed",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 465,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:57.48",
+      "lyrics": "ever since we was on I dreamed it all",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 622,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:01.96",
+      "lyrics": "ever since we was on I dreamed it all",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 622,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:05.18",
+      "lyrics": "Now they always say congratulations",
+      "bass_total_percent": 4,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 4,
+      "frequency_peak_hz": 555,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:08.90",
+      "lyrics": "Worked so hard, forgot how to vacation",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "03:12.76",
+      "lyrics": "They ain't never had the dedication",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "03:16.26",
+      "lyrics": "People hatin', say we changed, and look, we made it",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 29,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "03:20.00",
+      "lyrics": "Yeah, we made it (oh)",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "03:24.00",
+      "lyrics": "...",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 16
+    }
+  ]
+}

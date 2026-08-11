@@ -1,0 +1,515 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "03:33",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:02.94",
+      "lyrics": "...",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 330,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:16.22",
+      "lyrics": "See, right now, I need you, I'll meet you somewhere now",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 19,
+      "frequency_peak_hz": 86,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:19.92",
+      "lyrics": "You up now, I see you, I get you, take care now",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 20,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:23.02",
+      "lyrics": "I'll get you, take care now",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 20,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:25.24",
+      "lyrics": "Slow down, be cool, I miss you, come here now",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 20,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:28.30",
+      "lyrics": "It's yours now, keep it, I'll hold out until now",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 20,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:30.40",
+      "lyrics": "Keep it, I'll hold out until now",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "00:33.54",
+      "lyrics": "I need you right now",
+      "bass_total_percent": 25,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 22,
+      "frequency_peak_hz": 86,
+      "color_intensity_percent": 25
+    },
+    {
+      "timestamp": "00:35.38",
+      "lyrics": "Once I leave you, I'm strung out",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "00:37.64",
+      "lyrics": "If I get you, I'm slowly breaking down",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 20,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:41.74",
+      "lyrics": "And, oh, it's hard to see you, but I wish you were right here",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 86,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:45.96",
+      "lyrics": "Oh, it's hard to leave you when I get you everywhere",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 81,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:49.98",
+      "lyrics": "All this time, I'm thinking we could never be a pair",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:54.32",
+      "lyrics": "Oh, no, I don't need you, but I miss you, come here",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 19,
+      "frequency_peak_hz": 163,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:58.30",
+      "lyrics": "And, oh, it's hard to see you, but I wish you were right here",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 97,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:02.90",
+      "lyrics": "Oh, it's hard to leave you when I get you everywhere",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:06.86",
+      "lyrics": "All this time, I'm thinking I'm strong enough to sink it",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:11.32",
+      "lyrics": "Oh, no, I don't need you, but I miss you, come here",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:15.76",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "01:17.60",
+      "lyrics": "He holds me tight, then lets me go",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 335,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:20.00",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 459,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:21.84",
+      "lyrics": "He holds me tight, then lets me go",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 452,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:24.22",
+      "lyrics": "Soon as you leave me, we always lose connection",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "01:28.86",
+      "lyrics": "It's getting messy, I fiend for your affection",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "01:33.66",
+      "lyrics": "Don't loosen your grip, got a hold on me",
+      "bass_total_percent": 24,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 21,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 24
+    },
+    {
+      "timestamp": "01:36.96",
+      "lyrics": "Now, forever, let's get back together",
+      "bass_total_percent": 24,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 21,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 24
+    },
+    {
+      "timestamp": "01:42.06",
+      "lyrics": "Lord, take it so far away",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 19,
+      "frequency_peak_hz": 105,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "01:45.94",
+      "lyrics": "I pray that, God, we don't break",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 86,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "01:50.16",
+      "lyrics": "I want you to take me up and down and round and round again",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 86,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:57.38",
+      "lyrics": "And, oh, it's hard to see you, but I wish you were right here",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 86,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "02:01.76",
+      "lyrics": "Oh, it's hard to leave you when I get you everywhere",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 81,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "02:06.10",
+      "lyrics": "All this time, I'm thinking we could never be a pair",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "02:10.12",
+      "lyrics": "Oh, no, I don't need you, but I miss you, come here",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 163,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "02:14.12",
+      "lyrics": "And, oh, it's hard to see you, but I wish you were right here",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "02:18.58",
+      "lyrics": "Oh, it's hard to leave you when I get you everywhere",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "02:23.14",
+      "lyrics": "All this time, I'm thinking I'm strong enough to sink it",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "02:27.16",
+      "lyrics": "Oh, no, I don't need you, but I miss you, come here",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "02:30.96",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 97,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "02:31.80",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 543,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:33.38",
+      "lyrics": "He holds me tight, then lets me go",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 453,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:35.78",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 544,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:37.96",
+      "lyrics": "He holds me tight, then lets me go",
+      "bass_total_percent": 0,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 0,
+      "frequency_peak_hz": 619,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:40.00",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 452,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:41.86",
+      "lyrics": "He holds me tight, then lets me go",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 448,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:44.56",
+      "lyrics": "He love me not, he loves me",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 436,
+      "color_intensity_percent": 10
+    },
+        {
+      "timestamp": "02:46.00",
+      "lyrics": "He holds me tight, then lets me go",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 448,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:48.56",
+      "lyrics": "You're gonna say that you're sorry at the end of the night",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 332,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:53.30",
+      "lyrics": "Wake up in the morning, everything's alright",
+      "bass_total_percent": 4,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 4,
+      "frequency_peak_hz": 516,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:57.18",
+      "lyrics": "At the end of the story, you're holding me tight",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 587,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:01.64",
+      "lyrics": "I don't need to worry, am I out of my mind?",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 584,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:05.04",
+      "lyrics": "And, oh, it's hard to see you, but I wish you were right here (I'm losing my mind)",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "03:09.06",
+      "lyrics": "Oh, it's hard to leave you when I get you everywhere",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "03:13.16",
+      "lyrics": "All this time I'm thinking I'm strong enough to sink it",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "03:17.66",
+      "lyrics": "Oh, no, I don't need you, but I miss you, come here",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "03:20.00",
+      "lyrics": "Oh, no, I don't need you, but I miss you, come here",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "03:22.00",
+      "lyrics": "...",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 18,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 20
+    }
+  ]
+}
