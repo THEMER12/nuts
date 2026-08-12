@@ -1,0 +1,382 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "03:27",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:07.82",
+      "lyrics": "Some say if you don't go then you won't know how to let go when you gotta let it swerve",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 64,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:15.82",
+      "lyrics": "Some say if you don't try then you won't know how to get by no one said it wouldn’t hurt",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:20.62",
+      "lyrics": "Oh no, if I knew then what I should’ve known now",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 50,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:35.80",
+      "lyrics": "Up and down, jump off the deep end, wreck this house, I should’ve left with you, with you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "00:43.70",
+      "lyrics": "No way out, I met your best friend, she went down, I should’ve made my move with you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "00:51.72",
+      "lyrics": "I shoulda, I woulda, I coulda, but I didn't",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:55.46",
+      "lyrics": "Hit it!",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 1819,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:59.88",
+      "lyrics": "Some say if you break down then you touch ground then you dropped out still you got a lot to learn",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 76,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:07.72",
+      "lyrics": "But I say take it back up, throw it on now, make it stack up cause tonight we’re gonna burn it down",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:15.52",
+      "lyrics": "If I knew then what I should’ve known all along",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 50,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:23.58",
+      "lyrics": "Up and down, jump off the deep end, wreck this house, I should’ve left with you, with you",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:31.66",
+      "lyrics": "No way out, I met your best friend, she went down, I should’ve made my move with you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 52,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:39.96",
+      "lyrics": "Messed up now, pissed off the in-crowd, break this town, my eyes are set on you, on you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 56,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:47.74",
+      "lyrics": "We know now I'm not your best friend, broke all bounds, I'll make it up to you, to you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 64,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:55.54",
+      "lyrics": "I shoulda, I woulda, I coulda, but I didn't",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 56,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "01:59.62",
+      "lyrics": "Hit it!",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 1911,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:00.16",
+      "lyrics": "I'm feeling lucky, lay all my cards down, nothing can stop me tonight we go all out",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "02:07.92",
+      "lyrics": "I'm feeling lucky, I'll bet my hometown, nothing can stop us now",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 98,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:15.62",
+      "lyrics": "I say if you don't know then you go slow or you don't go, don't be a no-show",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 47,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:20.50",
+      "lyrics": "Just let go, let's get stoned, from the top down to the down low, download, let's go",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 47,
+      "color_intensity_percent": 12
+    },{
+      "timestamp": "02:24.00",
+      "lyrics": "I say if you don't know then you go slow or you don't go, don't be a no-show",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 47,
+      "color_intensity_percent": 14
+    },{
+      "timestamp": "02:28.00",
+      "lyrics": "Just let go, let's get stoned, from the top down to the down low, download, let's go",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 47,
+      "color_intensity_percent": 12
+    },{
+      "timestamp": "02:31.50",
+      "lyrics": "...",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 47,
+      "color_intensity_percent": 12
+    },    {
+      "timestamp": "02:36.00",
+      "lyrics": "Woo!",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:37.92",
+      "lyrics": "Woo!",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 16
+    },{
+      "timestamp": "02:39.50",
+      "lyrics": "...",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 16
+    },{
+      "timestamp": "02:44.00",
+      "lyrics": "Woo!",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:47.90",
+      "lyrics": "Up and down, jump off the deep end, wreck this house",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 66,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:50.94",
+      "lyrics": "I should've left with you",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 66,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:53.58",
+      "lyrics": "With you",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 74,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:55.76",
+      "lyrics": "No way out, I met your best friend",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 84,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:58.06",
+      "lyrics": "She went down, I should've made my move",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 66,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:01.62",
+      "lyrics": "With you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 75,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:03.82",
+      "lyrics": "Messed up now, pissed off the in-crowd, wreck this town",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 66,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:06.92",
+      "lyrics": "My eyes are set on you",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:09.48",
+      "lyrics": "On you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 64,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:11.80",
+      "lyrics": "We know now, I'm not your best friend",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 82,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:14.12",
+      "lyrics": "Broke all bounds, I’ll make it up to you to you",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:16.88",
+      "lyrics": "To you",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "03:19.58",
+      "lyrics": "I shoulda, I woulda, I coulda, but I didn't",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 587,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:23.14",
+      "lyrics": "Hit it!",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 1828,
+      "color_intensity_percent": 10
+    },    {
+      "timestamp": "03:25.00",
+      "lyrics": "...",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 1828,
+      "color_intensity_percent": 10
+    }
+  ]
+}

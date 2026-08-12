@@ -1,0 +1,533 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "03:24",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:15.56",
+      "lyrics": "Days go by my window",
+      "bass_total_percent": 0,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 0,
+      "frequency_peak_hz": 347,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:20.36",
+      "lyrics": "World slows down as it goes",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:23.98",
+      "lyrics": "Goodbye to last night",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:27.62",
+      "lyrics": "Lost my eyesight",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 54,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:31.76",
+      "lyrics": "Can’t you help me see?",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:33.82",
+      "lyrics": "They won't get right",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:37.50",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 115,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "00:39.32",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "00:43.70",
+      "lyrics": "Alive",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "00:45.42",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 116,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "00:47.34",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "00:49.86",
+      "lyrics": "Alive",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 115,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "00:52.20",
+      "lyrics": "Alive",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:53.44",
+      "lyrics": "Alive",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "00:58.28",
+      "lyrics": "...",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 351,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:59.52",
+      "lyrics": "Waking in the snow",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 52,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:03.86",
+      "lyrics": "Tracing steps with you",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 53,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:07.86",
+      "lyrics": "Swimming through the snow",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:11.86",
+      "lyrics": "Wrapped in velvet gold",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "01:15.86",
+      "lyrics": "Can’t you help me see?",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 52,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:17.82",
+      "lyrics": "They won't get right",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 116,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:21.44",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 115,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:23.32",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 54,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:27.74",
+      "lyrics": "Alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:29.82",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 53,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:31.34",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 54,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:35.84",
+      "lyrics": "Alive",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "01:38.00",
+      "lyrics": "Alive",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "01:39.96",
+      "lyrics": "Alive",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 50,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "01:40.80",
+      "lyrics": "Can you describe to me?",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 440,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:44.86",
+      "lyrics": "All the world that you see",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 52,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:52.36",
+      "lyrics": "Oh, I need it so much",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:57.18",
+      "lyrics": "I'll just wait",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 50,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:59.86",
+      "lyrics": "Hey",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 72,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:05.60",
+      "lyrics": "Freedom is within you",
+      "bass_total_percent": 4,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 407,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:09.22",
+      "lyrics": "Giving make us feel good",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 402,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:13.70",
+      "lyrics": "Hello! To my people",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 397,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:17.28",
+      "lyrics": "Say hello! To the future",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 348,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:21.56",
+      "lyrics": "Freedom is within you",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:25.28",
+      "lyrics": "Giving make us feel good",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:29.52",
+      "lyrics": "Hello! To my people",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 349,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:33.28",
+      "lyrics": "Say hello! To the future",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 3,
+      "frequency_peak_hz": 349,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:37.16",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 50,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:39.34",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 53,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:43.74",
+      "lyrics": "Alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:45.48",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:47.30",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 52,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "02:51.84",
+      "lyrics": "Alive",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 57,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:54.62",
+      "lyrics": "Alive",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 56,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:55.42",
+      "lyrics": "Alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:56.72",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:59.34",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 52,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:03.70",
+      "lyrics": "Alive",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 53,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "03:05.44",
+      "lyrics": "Loving every minute",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 349,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:07.32",
+      "lyrics": "cause you make me feel so alive, alive",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 54,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:11.54",
+      "lyrics": "Alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 54,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:13.68",
+      "lyrics": "Alive",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "03:15.80",
+      "lyrics": "Alive",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 54,
+      "color_intensity_percent": 12
+    }
+  ]
+}
