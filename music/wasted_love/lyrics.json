@@ -1,0 +1,343 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "02:07",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:00.00",
+      "lyrics": "...",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 211,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:06.10",
+      "lyrics": "...",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 221,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:10.64",
+      "lyrics": "I've been really hating your touch",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:12.56",
+      "lyrics": "These feelings I'm having got me so fucked up",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:16.08",
+      "lyrics": "And I'm sipping on some gin and tonic with a cigarette butt",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:20.42",
+      "lyrics": "Spent a few years in a bad place",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:23.38",
+      "lyrics": "Lost time to the pain that I mistraced",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:26.00",
+      "lyrics": "Bleeding heart for a girl that I misplaced, so fucked up",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:29.44",
+      "lyrics": "on the pills that I mistake",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:31.80",
+      "lyrics": "And I can't get my head right",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:34.80",
+      "lyrics": "So I'm smoking on that loud pack",
+      "bass_total_percent": 24,
+      "sub_bass_percent": 11,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 24
+    },
+    {
+      "timestamp": "00:36.92",
+      "lyrics": "Five shots to the dome, throw them all back",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:39.46",
+      "lyrics": "You call my line, yeah, you know I get a heart attack",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:42.14",
+      "lyrics": "Yeah, and I might relapse",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 7,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:44.08",
+      "lyrics": "Gotta pop a couple pills so I can relax",
+      "bass_total_percent": 23,
+      "sub_bass_percent": 10,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 23
+    },
+    {
+      "timestamp": "00:46.82",
+      "lyrics": "Heard you talking on my name I don't need that",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:49.20",
+      "lyrics": "But if you need me baby, you know I come right back",
+      "bass_total_percent": 26,
+      "sub_bass_percent": 11,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 26
+    },
+    {
+      "timestamp": "00:52.48",
+      "lyrics": "And sleeping alone gets harder when it's cold",
+      "bass_total_percent": 6,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 195,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:57.34",
+      "lyrics": "Could you hit my phone so I know you got home",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 196,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:02.20",
+      "lyrics": "I wanna know? I need you right here",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 195,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:06.54",
+      "lyrics": "I gotta go, I don't want you my dearly",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 219,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:12.48",
+      "lyrics": "I don't want you, I don't need you",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 196,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:15.22",
+      "lyrics": "I won't wait up, I don't feel you",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "01:17.76",
+      "lyrics": "I won't stay up, I won't leave you now",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 196,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "01:22.98",
+      "lyrics": "I'ma need you to let you go",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 247,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:24.68",
+      "lyrics": "Want to run it back or leave you out in the cold",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:28.32",
+      "lyrics": "I'ma leave you on your own",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 246,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:29.86",
+      "lyrics": "Even after hope, I will never let you go yeah",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 248,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:33.72",
+      "lyrics": "I've been really hating your touch",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:35.56",
+      "lyrics": "These feelings I'm having got me so fucked up",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:39.14",
+      "lyrics": "And I'm sipping on some gin and tonic with a cigarette butt",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "01:44.00",
+      "lyrics": "Spent a few years in a bad place",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:46.40",
+      "lyrics": "Lost time to the pain that I mistraced",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 8,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:49.02",
+      "lyrics": "Bleeding heart for a girl that I misplaced so fucked up",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 9,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:52.52",
+      "lyrics": "on the pills that I mistake",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:55.06",
+      "lyrics": "You're never gonna give up on me, Are you?",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 21,
+      "frequency_peak_hz": 181,
+      "color_intensity_percent": 21
+    },{
+      "timestamp": "01:59.00",
+      "lyrics": "...",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 21,
+      "frequency_peak_hz": 181,
+      "color_intensity_percent": 21
+    }
+  ]
+}
