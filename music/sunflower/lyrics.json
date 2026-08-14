@@ -1,0 +1,380 @@
+{
+  "song_title": "Sunflower",
+  "artist": "Post Malone & Swae Lee",
+  "track_duration": "02:37",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:26.00",
+      "lyrics": "Needless to say I keep in check, she was a",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 145,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:30.00",
+      "lyrics": "Bad-bad, nevertheless, callin' it quits now, baby, I'm a wreck (wreck)",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 145,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:34.22",
+      "lyrics": "Crash at my place, baby, you're a wreck (wreck)",
+      "bass_total_percent": 21,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 21
+    },
+    {
+      "timestamp": "00:36.90",
+      "lyrics": "Needless to say I'm keepin' in check",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 81,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:39.58",
+      "lyrics": "She was a bad-bad, nevertheless, callin' it quits now, baby, I'm a wreck",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:44.94",
+      "lyrics": "Crash at my place, baby, you're a wreck",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 19,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "00:47.66",
+      "lyrics": "Thinkin' in a bad way, losin' your grip",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:50.34",
+      "lyrics": "Screamin' at my face, baby, don't trip",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:52.88",
+      "lyrics": "Someone took a big L, don't know how that felt",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 49,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:55.64",
+      "lyrics": "Lookin' at you sideways, party on tilt",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:00.38",
+      "lyrics": "Ooh, some things you just can't refuse",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 588,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:03.32",
+      "lyrics": "She wanna ride me like a cruise",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 370,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:06.20",
+      "lyrics": "And I'm not tryna lose",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 390,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:10.44",
+      "lyrics": "Then you're left in the dust",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:12.08",
+      "lyrics": "Unless I stuck by ya",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:15.32",
+      "lyrics": "You're a sunflower",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 145,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:17.72",
+      "lyrics": "I think your love would be too much",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:20.04",
+      "lyrics": "Or you'll be left in the dust",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 81,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:23.36",
+      "lyrics": "Unless I stuck by ya",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 81,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:26.24",
+      "lyrics": "You're the sunflower",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 145,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:28.50",
+      "lyrics": "You're the sunflower",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 219,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:30.88",
+      "lyrics": "Every time I'm leavin' on ya (ooh)",
+      "bass_total_percent": 5,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:33.22",
+      "lyrics": "You don't make it easy, no (no, no)",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:36.16",
+      "lyrics": "Wish I could be there for ya (ooh)",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:38.68",
+      "lyrics": "Give me a reason to, oh (oh)",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 293,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "01:41.84",
+      "lyrics": "Every time I'm walkin' out (oh)",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 440,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:43.66",
+      "lyrics": "I can hear you tellin' me to turn around (oh, oh)",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 439,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:46.30",
+      "lyrics": "Fightin' for my trust and you won't back down (no)",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 657,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:48.98",
+      "lyrics": "Even if we gotta risk it all right now, oh (now)",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 658,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:51.68",
+      "lyrics": "I know you're scared of the unknown ('known)",
+      "bass_total_percent": 6,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:54.62",
+      "lyrics": "You don't wanna be alone (alone)",
+      "bass_total_percent": 8,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 36,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "01:57.12",
+      "lyrics": "I know I always come and go (and go)",
+      "bass_total_percent": 7,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 740,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:00.02",
+      "lyrics": "But it's out of my control",
+      "bass_total_percent": 6,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 738,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:03.18",
+      "lyrics": "And you'll be left in the dust",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 658,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:05.96",
+      "lyrics": "Unless I stuck by ya",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 740,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:08.70",
+      "lyrics": "You're the sunflower",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 657,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:11.14",
+      "lyrics": "I think your love would be too much",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 328,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:14.00",
+      "lyrics": "Or you'll be left in the dust",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 659,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:16.62",
+      "lyrics": "Unless I stuck by ya",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 659,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:19.44",
+      "lyrics": "You're the sunflower",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 739,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:22.08",
+      "lyrics": "You're the sunflower (yeah)",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 740,
+      "color_intensity_percent": 14
+    }
+  ]
+}
