@@ -6,14 +6,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         card.addEventListener('click', () => {
 
-            const img = card.querySelector('#data-song img');
+            const img = card.querySelector('img');
 
             const songData = {
                 audio: card.getAttribute('data-song'),
                 lyrics: card.getAttribute('data-lyrics'),
                 cover: img ? img.getAttribute('src') : ''
             };
-
+            
             localStorage.setItem(
                 'currentSong',
                 JSON.stringify(songData)
@@ -22,10 +22,9 @@ document.addEventListener('DOMContentLoaded', () => {
             window.location.href = 'page/player.html';
 
         });
-
+        
     });
-
-
+    
     const audioPlayer = document.getElementById('audio-player');
     const lyricsContainer = document.getElementById('lyrics-container');
     const imgMusic = document.getElementById('img-music');
@@ -48,9 +47,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
             audioPlayer.src = songData.audio;
 
-        if (imgMusic && songData.cover) {
-            imgMusic.src = '/' + songData.cover;
-        }
+            if (imgMusic && songData.cover) {
+                imgMusic.src = '/' + songData.cover;
+            }
 
             if (titleMusic && songData.audio) {
 
