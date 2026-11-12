@@ -1,52 +1,103 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
   <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <script defer src="scripts/music.js"></script>
-  <title>10</title>
+  <title>play</title>
+  <style>
+    html, body { background: #000; }
+    .song-card { position: relative; overflow: hidden; cursor: pointer; aspect-ratio: 1 / 1; min-height: 0; background: #0a0a0a; -webkit-tap-highlight-color: transparent; }
+    .song-card img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+    @media (min-width: 1024px) { .song-card { aspect-ratio: auto; } }
+    .song-card img { opacity: .82; transition: opacity .25s ease, transform .5s ease; }
+    .song-card:hover img,
+    .song-card:focus-visible img { opacity: 1; transform: scale(1.03); }
+    .song-card:focus-visible { outline: 2px solid #fff; outline-offset: -2px; }
+    @media (prefers-reduced-motion: reduce) {
+      .song-card img { transition: none; }
+      .song-card:hover img { transform: none; }
+    }
+  </style>
 </head>
-<body class="bg-black m-0 p-0 min-h-screen flex flex-col justify-between">
+<body class="m-0 p-0 bg-black text-white flex flex-col min-h-dvh lg:h-dvh lg:overflow-hidden antialiased">
 
-  <header>
-    <h1 class="uppercase text-4xl mt-20 text-center text-white py-4">play</h1>
-  </header>
+  <main class="flex-1 min-h-0">
+    <div class="grid h-full gap-px grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 lg:grid-rows-4">
 
-  <main class="w-full mt-auto">
-    <div class="w-full grid grid-cols-5">
-      <div class="song-card" data-song="/music/congratulations/Congratulations (feat. Quavo).flac" data-lyrics="/music/congratulations/lyrics.json">
-        <img src="music/congratulations/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/congratulations/Congratulations (feat. Quavo).flac" data-lyrics="/music/congratulations/lyrics.json">
+        <img src="music/congratulations/cover.jpg" alt="Congratulations">
       </div>
-      <div class="song-card" data-song="/music/hit_it/Hit It.flac" data-lyrics="/music/hit_it/lyrics.json">
-        <img src="music/hit_it/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/hit_it/Hit It.flac" data-lyrics="/music/hit_it/lyrics.json">
+        <img src="music/hit_it/cover.jpg" alt="Hit It">
       </div>
-      <div class="song-card" data-song="/music/love_me_not/Love Me Not.flac" data-lyrics="/music/love_me_not/lyrics.json">
-        <img src="music/love_me_not/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/love_me_not/Love Me Not.flac" data-lyrics="/music/love_me_not/lyrics.json">
+        <img src="music/love_me_not/cover.jpg" alt="Love Me Not">
       </div>
-      <div class="song-card" data-song="/music/movin_forward/MOVIN FORWARD.flac" data-lyrics="/music/movin_forward/lyrics.json">
-        <img src="/music/movin_forward/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/movin_forward/MOVIN FORWARD.flac" data-lyrics="/music/movin_forward/lyrics.json">
+        <img src="music/movin_forward/cover.jpg" alt="Movin Forward">
       </div>
-      <div class="song-card" data-song="/music/nuts/Lil Peep LIVE FOREVER_04 Nuts.flac" data-lyrics="/music/nuts/lyrics.json">
-        <img src="music/nuts/cover.png" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/nuts/Lil Peep LIVE FOREVER_04 Nuts.flac" data-lyrics="/music/nuts/lyrics.json">
+        <img src="music/nuts/cover.png" alt="Nuts">
       </div>
-      <div class="song-card" data-song="/music/suicideboys/$uicideboy$ - ...And to Those I Love, Thanks for Sticking Around.flac" data-lyrics="/music/suicideboys/lyrics.json">
-        <img src="music/suicideboys/cover.jpg" alt="Song Image" class="w-full h-full object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/suicideboys/$uicideboy$ - ...And to Those I Love, Thanks for Sticking Around.flac" data-lyrics="/music/suicideboys/lyrics.json">
+        <img src="music/suicideboys/cover.jpg" alt="...And to Those I Love, Thanks for Sticking Around">
       </div>
-      <div class="song-card" data-song="/music/alive/Empire Of The Sun - Alive.flac" data-lyrics="/music/alive/lyrics.json">
-        <img src="music/alive/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/alive/Empire Of The Sun - Alive.flac" data-lyrics="/music/alive/lyrics.json">
+        <img src="music/alive/cover.jpg" alt="Alive">
       </div>
-      <div class="song-card" data-song="/music/sunflower/Sunflower (Spider‐Man - Into the Spider‐Verse).flac" data-lyrics="/music/sunflower/lyrics.json">
-        <img src="music/sunflower/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/sunflower/Sunflower (Spider‐Man - Into the Spider‐Verse).flac" data-lyrics="/music/sunflower/lyrics.json">
+        <img src="music/sunflower/cover.jpg" alt="Sunflower">
       </div>
-      <div class="song-card" data-song="/music/top/twenty one pilots - Stressed Out - 01 - Stressed Out.flac" data-lyrics="/music/top/lyrics.json">
-        <img src="music/top/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/top/twenty one pilots - Stressed Out - 01 - Stressed Out.flac" data-lyrics="/music/top/lyrics.json">
+        <img src="music/top/cover.jpg" alt="Stressed Out">
       </div>
-      <div class="song-card" data-song="/music/wasted_love/Wasted_Love.mp3" data-lyrics="/music/wasted_love/lyrics.json">
-        <img src="music/wasted_love/cover.jpg" alt="Song Image" class="w-full h-auto object-cover border-2 border-white">
+      <div class="song-card" tabindex="0" data-song="/music/wasted_love/Wasted_Love.mp3" data-lyrics="/music/wasted_love/lyrics.json">
+        <img src="music/wasted_love/cover.jpg" alt="Wasted Love">
       </div>
+
+      <div class="song-card" tabindex="0" data-song="/music/16_years/16_Years.flac" data-lyrics="/music/16_years/lyrics.json">
+        <img src="music/16_years/cover.jpg" alt="16 Years">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/dont_forget_who_you_are/02 - Don't Forget Who You Are.flac" data-lyrics="/music/">
+        <img src="music/dont_forget_who_you_are/cover.jpg" alt="Don't Forget Who You Are">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/dont_move/02 Don't Move.flac" data-lyrics="/music/">
+        <img src="music/dont_move/cover.jpg" alt="Don't Move">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/dreamer/Dreamer.flac" data-lyrics="/music/">
+        <img src="music/dreamer/cover.jpg" alt="Dreamer">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/love_again/The Kid LAROI - THE FIRST TIME - 17 - LOVE AGAIN.flac" data-lyrics="/music/">
+        <img src="music/love_again/cover.jpg" alt="Love Again">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/more_than_you_know/01 - More Than You Know.flac" data-lyrics="/music/">
+        <img src="music/more_than_you_know/cover.jpg" alt="More Than You Know">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/scared_to_be_lonely/01 Scared to Be Lonely.flac" data-lyrics="/music/">
+        <img src="music/scared_to_be_lonely/cover.jpg" alt="Scared to Be Lonely">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/something_good_can_work/Something Good Can Work.flac" data-lyrics="/music/something_good_can_work/lyrics.json">
+        <img src="music/something_good_can_work/cover.jpg" alt="Something Good Can Work">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/what_you_know/What You Know.flac" data-lyrics="/music/">
+        <img src="music/what_you_know/cover.jpg" alt="What You Know">
+      </div>
+      <div class="song-card" tabindex="0" data-song="/music/young_folks/Peter Bjorn And John - Young Folks.flac" data-lyrics="/music/">
+        <img src="music/young_folks/cover.jpg" alt="Young Folks">
+      </div>
+
     </div>
   </main>
 
+  <script>
+    document.querySelectorAll('.song-card').forEach(card => {
+      card.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); card.click(); }
+      });
+    });
+  </script>
 </body>
 </html>

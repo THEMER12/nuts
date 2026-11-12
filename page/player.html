@@ -1,102 +1,107 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <title>play</title>
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script defer src="../scripts/music.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <script defer src="../scripts/music.js"></script>
 
-    <style>
-        #fire {
-            position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100vw;
-            height: 100vh;
-            z-index: 0;
-            pointer-events: none;
-        }
+  <style>
+    html, body { background: #000; }
 
-        .lyrics-wrapper {
-            position: relative;
-            z-index: 10;
-        }
+    #fire {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+    }
 
-        .music-info {
-            position: relative;
-            z-index: 10;
-        }
+    /* Sliders finos y minimalistas (progreso y volumen) */
+    input[type="range"].slim {
+      -webkit-appearance: none;
+      appearance: none;
+      height: 20px;
+      background: transparent;
+      cursor: pointer;
+      --fill: 0%;
+    }
+    .slim::-webkit-slider-runnable-track {
+      height: 2px;
+      border-radius: 2px;
+      background: linear-gradient(to right, #fff var(--fill), rgba(255,255,255,.25) var(--fill));
+    }
+    .slim::-moz-range-track { height: 2px; border-radius: 2px; background: rgba(255,255,255,.25); }
+    .slim::-moz-range-progress { height: 2px; border-radius: 2px; background: #fff; }
+    .slim::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 10px; height: 10px; margin-top: -4px;
+      border-radius: 50%; border: 0; background: #fff;
+      transition: transform .15s ease;
+    }
+    .slim::-moz-range-thumb { width: 10px; height: 10px; border: 0; border-radius: 50%; background: #fff; }
+    .slim:hover::-webkit-slider-thumb { transform: scale(1.35); }
+    .slim:focus-visible { outline: 2px solid #fff; outline-offset: 4px; border-radius: 4px; }
 
-        #img-music {
-            width: 100px;
-            height: 100px;
-            object-fit: cover;
-        }
-    </style>
+    .ctrl:focus-visible { outline: 2px solid #fff; outline-offset: 4px; border-radius: 4px; }
+    .shade { filter: drop-shadow(0 1px 4px rgba(0,0,0,.6)); }
+  </style>
 </head>
 
-<body class="bg-black text-neutral-100 min-h-screen flex flex-col items-center justify-center overflow-hidden antialiased select-none px-6">
+<body class="h-dvh overflow-hidden bg-black text-white antialiased select-none">
 
-    <header class="music-info absolute top-10 left-4 flex gap-4 items-end justify-start">
-        <img
-            src=""
-            id="img-music"
-            class=""
-            alt="Cover"
-        >
 
-        <h1
-            id="title-music"
-            class="text-xl md:text-2xl text-center font-medium tracking-tight max-w-2xl italic"
-        ></h1>
+  <canvas id="fire"></canvas>
 
-    </header>
+  <header class="absolute inset-x-0 top-0 z-20 flex flex-col gap-4 p-5 pt-[max(1.25rem,env(safe-area-inset-top))] sm:p-6 sm:pt-[max(1.5rem,env(safe-area-inset-top))] md:flex-row md:items-center md:gap-8">
 
-    <canvas id="fire"></canvas>
+    <div class="flex min-w-0 items-center gap-4 pr-10 md:max-w-sm md:shrink-0 md:pr-0">
+      <img id="img-music" class="size-16 shrink-0 bg-neutral-900 object-cover sm:size-20" alt="Portada">
+      <h1 id="title-music" class="truncate text-base font-light tracking-tight sm:text-lg"></h1>
+    </div>
 
-    <div class="absolute top-0 left-0 w-full p-6 flex justify-end z-30">
+      <div class="flex w-full min-w-0 items-center gap-3 sm:gap-4 md:flex-1 md:max-w-xl">
 
-        <button
-            onclick="history.back()"
-            class="flex items-center space-x-2 text-xs uppercase tracking-widest text-neutral-400 hover:text-white transition-colors duration-300 focus:outline-none bg-neutral-900/50 border border-neutral-800/80 px-4 py-2 rounded-full backdrop-blur-sm cursor-pointer"
-        >
-            <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke-width="2"
-                stroke="currentColor"
-                class="w-3 h-3"
-            >
-                <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18"
-                />
-            </svg>
+        <button id="play-pause-btn" type="button" aria-label="Reproducir" class="ctrl shade shrink-0 p-1">
+          <svg id="play-icon" viewBox="0 0 24 24" fill="currentColor" class="size-6"><path d="M8 5v14l11-7z"/></svg>
+          <svg id="pause-icon" viewBox="0 0 24 24" fill="currentColor" class="hidden size-6"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></svg>
         </button>
 
-    </div>
+        <span id="current-time" class="shade w-10 text-right text-xs text-neutral-200 tabular-nums">0:00</span>
+        <input id="seek-slider" type="range" min="0" max="1000" value="0" step="1" aria-label="Posición" class="slim shade min-w-0 flex-1">
+        <span id="duration-time" class="shade w-10 text-xs text-neutral-200 tabular-nums">0:00</span>
 
-    <div class="lyrics-wrapper w-full max-w-4xl flex flex-col items-center justify-center">
-
-        <audio
-            id="audio-player"
-            class="hidden"
-        ></audio>
-
-        <div
-            id="lyrics-container"
-            class="text-4xl md:text-6xl tracking-tight text-center max-w-3xl leading-tight transition-all mb-12"
-        >
-            ...
+        <div class="flex shrink-0 items-center gap-2">
+          <button id="mute-btn" type="button" aria-label="Silenciar" class="ctrl shade p-1 text-neutral-200 hover:text-white">
+            <svg data-icon="high" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="size-5">
+              <path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7M18.5 5.5a9 9 0 0 1 0 13"/>
+            </svg>
+            <svg data-icon="low" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="hidden size-5">
+              <path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/>
+            </svg>
+            <svg data-icon="mute" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="hidden size-5">
+              <path d="M11 5 6 9H3v6h3l5 4z"/><path d="m16 9 5 6m0-6-5 6"/>
+            </svg>
+          </button>
+          <input id="volume-slider" type="range" min="0" max="100" value="80" step="1" aria-label="Volumen" class="slim shade hidden w-20 sm:block">
         </div>
 
-    </div>
+      </div>
+
+    <a href="../index.html" aria-label="Volver" class="ctrl shade absolute right-5 top-[max(1.25rem,env(safe-area-inset-top))] p-2 text-neutral-300 transition-colors hover:text-white sm:right-6">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="size-5">
+        <path d="M19 12H5m0 0 6-6m-6 6 6 6"/>
+      </svg>
+    </a>
+  </header>
+
+  <main class="relative z-10 flex h-full items-center justify-center px-6 pt-44 pb-10 md:pt-28">
+    <audio id="audio-player" preload="auto" class="hidden"></audio>
+    <p id="lyrics-container" aria-live="polite"
+       class="max-w-4xl text-center text-4xl leading-tight tracking-tight text-balance whitespace-pre-line transition-opacity duration-200 md:text-6xl"></p>
+  </main>
 
 </body>
-
 </html>

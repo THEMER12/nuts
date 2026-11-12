@@ -1,0 +1,254 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "02:44",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:02.24",
+      "lyrics": "[Music]",
+      "bass_total_percent": 3,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 2,
+      "frequency_peak_hz": 329,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:39.80",
+      "lyrics": "There's a spanner in the works, you know. You gotta step up your game to make it to the",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "00:43.52",
+      "lyrics": "top, so go. Got a little competition now",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 74,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:49.64",
+      "lyrics": "You're going to find it hard to cope with living on your own now",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 56,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:51.80",
+      "lyrics": "Oh oh, oh oh, let's make this happen, girl",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:57.66",
+      "lyrics": "We're gonna show the world that something good can work and it can work for you",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:04.08",
+      "lyrics": "And you know that it will, let's get this started, girl",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:05.68",
+      "lyrics": "We're moving up, we're moving up, it's been a lot to change",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:07.78",
+      "lyrics": "But you will always get what you want",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 97,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:11.66",
+      "lyrics": "It took a little time to make a little better, it's only going up, just one thing then another",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:15.74",
+      "lyrics": "You know, you know, it took a little time to make a little better",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 17,
+      "frequency_peak_hz": 42,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "01:21.76",
+      "lyrics": "It's only going up, just one thing then another, you know, you know",
+      "bass_total_percent": 20,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 20
+    },
+    {
+      "timestamp": "01:28.00",
+      "lyrics": "Let's make this happen, girl. We're gonna show the world that something good can work and it",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 43,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:31.42",
+      "lyrics": "can work for you",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 97,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "01:33.26",
+      "lyrics": "And you know that it will",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 42,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "01:36.18",
+      "lyrics": "Let's get this started, girl. We're moving up, we're moving up",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 46,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:38.72",
+      "lyrics": "It's been a lot to change, but you will always get what you want",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "01:58.00",
+      "lyrics": "Oh oh, oh oh, let's make this happen, girl",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 74,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:01.66",
+      "lyrics": "We're gonna show the world that something good can work and it can work for you",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 64,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:05.22",
+      "lyrics": "And you know that it will",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 45,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "02:08.16",
+      "lyrics": "Let's get this started, girl. We're moving up, we're moving up",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:10.72",
+      "lyrics": "It's been a lot to change, but you will always get what you want",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 47,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:15.14",
+      "lyrics": "Oh oh, oh oh, let's make this happen, girl",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 44,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:17.66",
+      "lyrics": "We're gonna show the world that something good can work and it can work for you",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:21.06",
+      "lyrics": "And you know that it will",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "02:24.24",
+      "lyrics": "Let's get this started, girl. We're moving up, we're moving up",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 41,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "02:26.72",
+      "lyrics": "It's been a lot to change, but you will always get what you want",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 16
+    }
+  ]
+}
