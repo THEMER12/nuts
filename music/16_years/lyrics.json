@@ -1,0 +1,353 @@
+{
+  "song_title": "Desconocido (16 Years)",
+  "artist": "Desconocido",
+  "track_duration": "03:45",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:12.48",
+      "lyrics": "16 years, without even a place to call my home",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 42,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:22.08",
+      "lyrics": "But I'll dry my tears, looking for a place to rest my bones",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 53,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:34.00",
+      "lyrics": "All these years, but never changed the one that I have known",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 85,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:45.02",
+      "lyrics": "And despite my fears, I'm sure that I can make it on my own",
+      "bass_total_percent": 17,
+      "sub_bass_percent": 4,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 61,
+      "color_intensity_percent": 17
+    },
+    {
+      "timestamp": "00:56.22",
+      "lyrics": "Party drugs and limousines, oh mama this is killing me",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 85,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:01.76",
+      "lyrics": "I'm half the man I used to be, oh-oh",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 109,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:07.36",
+      "lyrics": "Tequila, lust and gambling",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:10.44",
+      "lyrics": "Oh mama, I need rescuing",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 60,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:13.00",
+      "lyrics": "What 16 years has done to me, oh-oh (ooh)",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:22.22",
+      "lyrics": "Oh-oh (ooh)",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 195,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:29.72",
+      "lyrics": "16 years, burning every bridge that I have known",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:41.34",
+      "lyrics": "Without you here, the world has gotten colder on my own",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:52.56",
+      "lyrics": "Party drugs and limousines, oh mama this is killing me",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 60,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:58.16",
+      "lyrics": "I'm half the man I used to be, oh-oh",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:07.16",
+      "lyrics": "Tequila, lust and gambling, oh mama I need rescuing",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:09.36",
+      "lyrics": "What 16 years has done to me, oh-oh (ooh)",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:21.16",
+      "lyrics": "There's nothing like it, I'm going away",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:23.66",
+      "lyrics": "There's nothing like the feeling",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:26.34",
+      "lyrics": "Of being alone now on a New York street",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:29.24",
+      "lyrics": "Gives everything some meaning",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:32.00",
+      "lyrics": "There's nothing like being torn apart",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:34.98",
+      "lyrics": "From a love you've known right from the start",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:37.84",
+      "lyrics": "There's nothing like this feeling",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 123,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:43.12",
+      "lyrics": "There's nothing like it, I'm going away",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:46.36",
+      "lyrics": "There's nothing like the feeling",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:48.96",
+      "lyrics": "Of being alone now on a New York street",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "02:51.92",
+      "lyrics": "Gives everything some meaning",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:54.56",
+      "lyrics": "There's nothing like being torn apart",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "02:57.50",
+      "lyrics": "From a love you've known right from the start",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 146,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:00.38",
+      "lyrics": "There's nothing like this feeling",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 164,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:06.18",
+      "lyrics": "Party drugs and limousines",
+      "bass_total_percent": 7,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 6,
+      "frequency_peak_hz": 527,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:08.96",
+      "lyrics": "Oh mama, this is killing me",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:11.66",
+      "lyrics": "I'm half the man I used to be, oh-oh",
+      "bass_total_percent": 1,
+      "sub_bass_percent": 0,
+      "mid_bass_percent": 1,
+      "frequency_peak_hz": 522,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:17.76",
+      "lyrics": "Tequila, lust and gambling",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "03:19.88",
+      "lyrics": "Oh mama, I need rescuing",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:22.78",
+      "lyrics": "What 16 years has done to me, oh-oh (ooh)",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 110,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "03:28.28",
+      "lyrics": "It's what 16 years has done to me, oh-oh (ooh)",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:33.96",
+      "lyrics": "It's what 16 years has done to me, oh-oh (ooh)",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 62,
+      "color_intensity_percent": 13
+    }
+  ]
+}

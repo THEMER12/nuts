@@ -1,0 +1,209 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "03:21",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:10.00",
+      "lyrics": "The finest clothes that you can find",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 97,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:14.96",
+      "lyrics": "Dressed in my coats, I'm feeling fine",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 131,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:19.50",
+      "lyrics": "I want to shine",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:24.94",
+      "lyrics": "I've shined so hard, I've standed apart",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 99,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "00:30.50",
+      "lyrics": "These foolish ways, I know my place",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 130,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:35.52",
+      "lyrics": "My time is now, my time is now",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 48,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "00:40.68",
+      "lyrics": "Although we're tongue tied and breathless",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 76,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:43.88",
+      "lyrics": "We won't let our worries take to eard",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 70,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "00:51.56",
+      "lyrics": "Throw out your doubts, we won't let our worries take to eard",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 70,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "01:01.02",
+      "lyrics": "La la la la, la la la la la la la",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 78,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "01:05.50",
+      "lyrics": "Don't forget who you are",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 116,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:15.94",
+      "lyrics": "Don't build me up, make up your mind Then keep her face, I'll keep her face",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 97,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:26.58",
+      "lyrics": "I like your style, you make me smile Although we're tongue tied and breathless",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 98,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:34.98",
+      "lyrics": "We won't let our worries dictate to we are So let's grow the wild, we owe the downs",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 71,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "01:45.36",
+      "lyrics": "We won't let our worries dictate to we are La la la, la la la la la la la",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 56,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "01:56.48",
+      "lyrics": "Don't forget who you are, darling, close your eyes And wish for more, we and our dreams till we're as in our own",
+      "bass_total_percent": 11,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 9,
+      "frequency_peak_hz": 53,
+      "color_intensity_percent": 11
+    },
+    {
+      "timestamp": "02:16.20",
+      "lyrics": "When we're tongue tied and breathless We won't let our worries dictate to we are",
+      "bass_total_percent": 6,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 5,
+      "frequency_peak_hz": 77,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:25.70",
+      "lyrics": "So let's grow the wild, we owe the downs We won't let our worries dictate to we are",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 883,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:36.86",
+      "lyrics": "La la la, la la la la la la La la la la la la",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 624,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:44.70",
+      "lyrics": "Don't forget who you are, la la la la La la la la la la la",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 786,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:52.08",
+      "lyrics": "La la la la la la la Don't forget who you are, la la la la la",
+      "bass_total_percent": 10,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 8,
+      "frequency_peak_hz": 87,
+      "color_intensity_percent": 10
+    },
+    {
+      "timestamp": "02:59.78",
+      "lyrics": "La la la la la la la La la la la la la",
+      "bass_total_percent": 9,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 7,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 10
+    }
+  ]
+}

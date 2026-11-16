@@ -1,0 +1,200 @@
+{
+  "song_title": "Desconocido",
+  "artist": "Desconocido",
+  "track_duration": "04:18",
+  "visualizer_setup": {
+    "sub_bass_range_hz": "20-60 Hz",
+    "mid_bass_range_hz": "60-250 Hz"
+  },
+  "lyrics_and_bass_analysis": [
+    {
+      "timestamp": "00:28.58",
+      "lyrics": "動Bad 댄서� hypotheses",
+      "bass_total_percent": 22,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 20,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 22
+    },
+    {
+      "timestamp": "00:39.72",
+      "lyrics": "I want your nervous feeling Each time you say goodnight",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "00:50.78",
+      "lyrics": "Your picture buildings burn into the ground From the basement in the streetlight",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "00:59.96",
+      "lyrics": "I'm not sure if you can grab more A hole is in the sky",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:09.58",
+      "lyrics": "It's not your heart that you've been thinking of Just to feel like you're gonna die",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:18.46",
+      "lyrics": "It's it, I know how to say say Keep your body still, keep your body still",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "01:28.66",
+      "lyrics": "All you know is, say say say Keep your body still, keep your body still",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 103,
+      "color_intensity_percent": 12
+    },
+    {
+      "timestamp": "01:40.36",
+      "lyrics": "I'm not your paranoia I'm someone's out of the door",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 16,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "01:49.98",
+      "lyrics": "Legend facts, crying like a thorn A body rising through the floor",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "01:59.52",
+      "lyrics": "I'm not your fortune teller I'm not your spinning bat",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 15,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "02:09.14",
+      "lyrics": "I'll never make you unkind about you This is starting to fork with your head",
+      "bass_total_percent": 16,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 55,
+      "color_intensity_percent": 16
+    },
+    {
+      "timestamp": "02:17.94",
+      "lyrics": "It's it, I know how to say say Keep your body still, keep your body still",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:28.70",
+      "lyrics": "All you know is, say say say Keep your body still, keep your body still",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "02:40.96",
+      "lyrics": "Don't you realize you're fine Or can't you see that you're fine",
+      "bass_total_percent": 19,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 14,
+      "frequency_peak_hz": 38,
+      "color_intensity_percent": 19
+    },
+    {
+      "timestamp": "02:50.10",
+      "lyrics": "You know that you're still fine You know that you're still alive",
+      "bass_total_percent": 18,
+      "sub_bass_percent": 6,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 18
+    },
+    {
+      "timestamp": "02:59.94",
+      "lyrics": "Don't you know you're fine Don't you know you're fine",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 5,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 51,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "03:09.92",
+      "lyrics": "In the sky",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 3,
+      "mid_bass_percent": 10,
+      "frequency_peak_hz": 58,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "03:28.26",
+      "lyrics": "I know how to say say Keep your body still, keep your body still",
+      "bass_total_percent": 15,
+      "sub_bass_percent": 2,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 15
+    },
+    {
+      "timestamp": "03:40.80",
+      "lyrics": "All you know is, say say say Keep your body still, keep your body still",
+      "bass_total_percent": 14,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 13,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 14
+    },
+    {
+      "timestamp": "03:50.28",
+      "lyrics": "All you know is south Do you say say? Keep your body still, keep your body still",
+      "bass_total_percent": 13,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 12,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 13
+    },
+    {
+      "timestamp": "04:00.14",
+      "lyrics": "All you know who Dees? Say say say Keep your body still, keep your body still",
+      "bass_total_percent": 12,
+      "sub_bass_percent": 1,
+      "mid_bass_percent": 11,
+      "frequency_peak_hz": 65,
+      "color_intensity_percent": 12
+    }
+  ]
+}
